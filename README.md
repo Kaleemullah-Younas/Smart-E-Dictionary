@@ -1,4 +1,4 @@
-# Smart E-Dictionary Project
+# 📚 Smart E-Dictionary Project
 
 ## Overview
 
