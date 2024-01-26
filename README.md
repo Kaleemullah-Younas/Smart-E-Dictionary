@@ -24,7 +24,7 @@ Welcome to the Smart E-Dictionary project! This C++ application leverages the po
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/smart-e-dictionary.git
+   git clone https://github.com/drstrange102/smart-e-dictionary.git
 
 
 ## Contribute:
